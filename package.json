@@ -1,0 +1,12 @@
+{
+  "name": "express-admission-portal",
+  "version": "1.0.0",
+  "description": "A simple admission portal using Express.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
